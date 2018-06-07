@@ -65,4 +65,8 @@ else:
 
 ############
 
-
+R1D3 07June2018
+While Loops
+break and continue 
+list can have any data type. index starts with 0. if you need to access the last index of the list, use -1
+list operations ( "in" "not in")
